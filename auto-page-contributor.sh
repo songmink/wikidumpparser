@@ -24,3 +24,4 @@ for i in {1..5000..1}; do
     fi
 
 done
+exit 1
